@@ -11,7 +11,8 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
 //            Bai1()
-            Bai2()
+//            Bai2()
+            Bai3()
         }
     }
 }
